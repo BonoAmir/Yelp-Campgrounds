@@ -1,0 +1,16 @@
+
+
+.img-thumbnail img{
+	width:100%;
+	
+}
+
+.img-thumbnail .figure{
+	padding:9px;
+}
+
+
+#price{
+text-align: right;
+
+}
